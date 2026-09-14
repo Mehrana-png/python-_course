@@ -1,0 +1,6 @@
+a,b,c,d=map(float,input("enter a b c d").split())
+print(a)
+print(b)
+print(c)
+print(d)
+#age 4,5 ta add bood bayad az map(float,...) estefade konim agar yedoone bood minevisim float(input=(""))

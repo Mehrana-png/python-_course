@@ -1,0 +1,10 @@
+name=input("enter your name:")
+age=int(input("enter your age:"))
+math_score=float(input("enter your math_score:"))
+fizik_score=float(input("enter your fizik_score:"))
+print("his name is:",name)
+if avg=
+print("his age is:",age)
+print("his math score is:,math_score")
+print("fizik score is:,fizik_score")
+print("average scores is :",avg)
