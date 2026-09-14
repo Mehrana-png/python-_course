@@ -1,8 +1,16 @@
+# temp=float(input("enter temp"))
+# if temp==25:
+#     print("normal")
+# else:
+#     if temp<25:
+#         print("cold")
+#     else:
+#         print("hot")
+
 temp=float(input("enter temp"))
 if temp==25:
     print("normal")
-else:
-    if temp<25:
+elif temp<25:
         print("cold")
-    else:
+else:
         print("hot")
